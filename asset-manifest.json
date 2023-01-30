@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/order-food-basket/static/css/main.4fa916fe.css",
+    "main.js": "/order-food-basket/static/js/main.e32dd0fa.js",
+    "static/js/787.1e3a1bdd.chunk.js": "/order-food-basket/static/js/787.1e3a1bdd.chunk.js",
+    "static/media/summary-background.jpg": "/order-food-basket/static/media/summary-background.058e3a5749d88597754f.jpg",
+    "static/media/basket-icons.svg": "/order-food-basket/static/media/basket-icons.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/order-food-basket/index.html",
+    "static/media/plusAdd.svg": "/order-food-basket/static/media/plusAdd.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "static/media/plusBasket.svg": "/order-food-basket/static/media/plusBasket.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/minusBasket.svg": "/order-food-basket/static/media/minusBasket.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.4fa916fe.css.map": "/order-food-basket/static/css/main.4fa916fe.css.map",
+    "main.e32dd0fa.js.map": "/order-food-basket/static/js/main.e32dd0fa.js.map",
+    "787.1e3a1bdd.chunk.js.map": "/order-food-basket/static/js/787.1e3a1bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa916fe.css",
+    "static/js/main.e32dd0fa.js"
+  ]
+}
